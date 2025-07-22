@@ -3,7 +3,10 @@ Hey! I'm ColonelNeon and I'm a Minecraft Java developer.
 
 
 ## 🛠 Skills
-Java - Mid-Tier Skill (Still Learning)
+Java - Proficient
+React JS - Beginner
+NodeJS- Beginner
+
 
 ## ⚙️ My past projects
 #### Carnage
