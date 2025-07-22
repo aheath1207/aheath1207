@@ -3,8 +3,8 @@ Hey! I'm ColonelNeon and I'm a Minecraft Java developer.
 
 
 ## 🛠 Skills
-Java - Proficient
-React JS - Beginner
+Java - Proficient\n
+React JS - Beginner\n
 NodeJS- Beginner
 
 
