@@ -1,5 +1,5 @@
 ## 🧑‍💻 ColonelNeon
-Hey! I'm ColonelNeon and I'm a Minecraft Java developer.
+Hey! I'm ColonelNeon and I'm a Learning full-stack web developer & Java developer.
 
 
 ## 🛠 Skills
