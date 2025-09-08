@@ -9,7 +9,7 @@ Python - Proficient
 
 React JS - Beginner
 
-NodeJS- Beginner
+NodeJS - Beginner
 
 Visual Basic - Beginner
 
